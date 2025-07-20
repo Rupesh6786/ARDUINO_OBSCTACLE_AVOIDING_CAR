@@ -78,7 +78,7 @@ Set baud rate to **9600**. You'll see:
 Servo centered to 115°
 Initial distance: 42
 Path is clear. Moving Forward...
-Measured Distance: 41
+Measured Distance: 13
 Obstacle detected! Executing avoidance sequence...
 Distance Right: 60
 Distance Left: 45
