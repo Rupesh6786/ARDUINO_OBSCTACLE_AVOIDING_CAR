@@ -38,7 +38,12 @@ This project uses an **ultrasonic sensor** to detect obstacles and a **servo mot
 > Make sure the Motor Shield is firmly seated on the Arduino Uno.
 
 ---
+## 📷 Circuit Diagram
 
+Below is the connection diagram for the Obstacle Avoiding Car:
+
+![Circuit Diagram](Circuit_Diagram.jpg)
+---
 ## 🧠 Libraries Used
 
 Install these libraries via the Arduino IDE:
