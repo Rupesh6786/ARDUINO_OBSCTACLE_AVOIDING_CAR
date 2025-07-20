@@ -44,7 +44,7 @@ This project uses an **ultrasonic sensor** to detect obstacles and a **servo mot
 Install these libraries via the Arduino IDE:
 
 1. **AFMotor**  
-   [AFMotor Library](https://learn.adafruit.com/adafruit-motor-shield/library-install)
+   [AFMotor Library](https://github.com/adafruit/Adafruit-Motor-Shield-library)
 
 2. **NewPing**  
    [NewPing GitHub](https://github.com/livetronic/Arduino-NewPing)
